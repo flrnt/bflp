@@ -43,4 +43,4 @@ configure :build do
   # activate :minify_javascript
 end
 
-activate :i18n
+activate :i18n, :path => "/:locale/"
