@@ -1,21 +1,24 @@
 #header {
-  background: pink;
+  background: #FFF;
   padding: 5px 15px;
   display: flex;
   align-items: center;
   justify-content: space-between;
   .logo {
-    color: white;
+    color: #565A5C;
     font-weight: bold;
-    font-size: 2em;
+    font-size: 1.7em;
   }
   .langages {
+    color: #565A5C;
     a {
-      color: white;
+      color: #565A5C;
       text-decoration: none;
+      font-weight: lighter;
+      font-size: .8em;
     }
     span {
-
+      vertical-align: middle;
     }
   }
 }
