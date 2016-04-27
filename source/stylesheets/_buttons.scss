@@ -1,8 +1,11 @@
-.btn-brand-dark {
+.btn-cta {
   text-decoration: none;
   font-size: 1.3em;
   color: white;
-  background: #006B6E;
-  padding: .5em 1em;
+  background: rgba(250,250,250,0.4);
+  padding: .6em 1.4em;
   border-radius: .3em;
+  &:hover {
+    background: rgba(250,250,250,0.6);
+  }
 }
