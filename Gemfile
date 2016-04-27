@@ -11,3 +11,14 @@ gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
 # Middleman Gems
 gem 'middleman', '>= 4.0.0'
 gem 'middleman-livereload'
+
+# Deploy to GitHub Pages
+gem 'middleman-deploy', '~> 1.0'
+
+# Assets
+gem 'jquery-middleman'
+gem 'bootstrap-sass', '~> 3.3.1'
+gem 'font-awesome-sass', '~> 4.2.0'
+
+# CSS performance
+gem 'middleman-autoprefixer'
