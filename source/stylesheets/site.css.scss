@@ -3,7 +3,21 @@
 @import "header";
 @import "buttons";
 @import "hero";
+@import "features";
+@import "beta-form";
+
+// External Frameworks
+@import "bootstrap";
+@import "font-awesome-sprockets";
+@import "font-awesome";
 
 body {
   font-family: 'Work Sans', sans-serif;
+  background-color: #F7F7F7;
+}
+
+.section-title {
+  margin-bottom: 60px;
+  text-align: center;
+  font-weight: 700;
 }

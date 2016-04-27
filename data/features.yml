@@ -1,7 +1,23 @@
-- icon:
+- icon: fa fa-video-camera
   title: Live video
-  description: Easily communicate with your host or family
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
 
-- icon:
+- icon: fa fa-users
   title: Community
-  description: Be inform which aupair is around
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+
+- icon: fa fa-file-text-o
+  title: Contracts
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+
+- icon: fa fa-credit-card
+  title: Payment
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+
+- icon: fa fa-child
+  title: Family
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+
+- icon: fa fa-bell-o
+  title: Notifications
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
