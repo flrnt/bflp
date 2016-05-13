@@ -1,10 +1,35 @@
 ---
 fr:
-  brand: "BUTRFLY"
-  brand_title: "Découvre une nouvelle culture"
-  header: "Envie de changement de vie ? Pars pour une expérience au pair à l'étranger !"
-  header_title: "Tu as entre 18 et 30 ans, tu rêves de vivre à l'étranger et tu aimes les enfants l'expérience au pair est faite pour toi. Pour plus d'informations inscris-toi !"
-  cta: "Rejoins-nous"
-  features: "Fonctionnalités"
+  brand: BUTRFLY
+  header: Rejoins la 1ère communauté au pair et utilise un service de mise en relation inédit
+  cta: Rejoins-nous
+  form_url: //butrfly.us13.list-manage.com/subscribe/post?u=00d62b935d3c754fbd9f5c813&amp;id=acdca846ef
+  form_name: b_00d62b935d3c754fbd9f5c813_acdca846ef
+  form_btn: Envoyer
   first_name: Prénom
   email_address: Adresse email
+  features_title: Fonctionnalités
+  features:
+    - icon: fa fa-video-camera
+      title: Video
+      description: Contacte ta famille au pair par vidéo directement depuis BUTRFLY et gagne du temps !
+
+    - icon: fa fa-users
+      title: Communauté
+      description: Retrouve les au pair sur BUTRFLY et rencontre les, partage ton expérience et créé toi de nouveaux amis !
+
+    - icon: fa fa-map-marker
+      title: Géolocalisation
+      description: Localise ta famille d'accueil et les au pair à proximité.
+
+    - icon: fa fa-money
+      title: Rémunération garantie
+      description: Avec BUTRFLY tu es sûr de recevoir ton argent de poche sur ton compte à jour fixe.
+
+    - icon: fa fa-universal-access
+      title: Soutien et accompagnement
+      description: BUTRFLY t'accompagne tout au long du séjour chez ta famille et est là en cas de besoin.
+
+    - icon: fa fa-thumbs-o-up
+      title: Recommendations
+      description: Améliore ton profil grâce aux témoignages de ta famille et de tes amis.

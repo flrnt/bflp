@@ -1,10 +1,35 @@
 ---
 es:
-  brand: "BUTRFLY"
-  brand_title: "habla spana"
-  header: "Envie de changement de vie ? Pars pour une expérience au pair à l'étranger !"
-  header_title: "Tu as entre 18 et 30 ans, tu rêves de vivre à l'étranger et tu aimes les enfants l'expérience au pair est faite pour toi. Pour plus d'informations inscris-toi !"
-  cta: "vamos"
-  features: "Fonctionnalitados"
-  first_name: Mariposa
-  email_address: Mailosa
+  brand: BUTRFLY
+  header: Junta la primera comunidad au pair y usas un servicio de intermediacion unico
+  cta: Inscribete
+  form_url:
+  form_name:
+  form_btn: Enviar
+  first_name: Apellido
+  email_address: Email
+  features_title: Funcionalidades
+  features:
+    - icon: fa fa-video-camera
+      title: Video
+      description: Contacta tu familia anfitriona en video desde BUTRFLY y gana tiempo !
+
+    - icon: fa fa-users
+      title: Comunidad
+      description: Encuentras au pair viviendo la misma experiencia y hazte amigos por la vida !
+
+    - icon: fa fa-map-marker
+      title: Geolocalizacion
+      description: Localizas a tu familia en un clic y ves a todos los au pair a proximidad. Ya no te sentiras solo !
+
+    - icon: fa fa-money
+      title: Compensacion garantizada
+      description: Con BUTRFLY recibes tu salario en su cuenta bancaria en un dia fijo.
+
+    - icon: fa fa-universal-access
+      title: Apoyo
+      description: BUTRFLY te accompana durante toda la estancia con tu familia y es alli cuando sea necesario.
+
+    - icon: fa fa-thumbs-o-up
+      title: Recomendaciones
+      description: Mejores tu perfil con las recomendaciones de tu familia y de tus amigos.

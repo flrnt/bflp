@@ -1,10 +1,35 @@
 ---
 en:
-  brand: "BUTRFLY"
-  brand_title: "Discover a new culture"
-  header: "Want a new lifestyle ? Have an incredible experience !"
-  header_title: "Tu as entre 18 et 30 ans, tu rêves de vivre à l'étranger et tu aimes les enfants l'expérience au pair est faite pour toi. Pour plus d'informations inscris-toi !"
-  cta: "Join us"
-  features: "Fonctionnalities"
+  brand: BUTRFLY
+  header: Join the first au pair community and test unique matchmaking service
+  cta: Join us
+  form_url:
+  form_name: 
+  form_btn: Submit
   first_name: First name
   email_address: Mail
+  features_title: Features
+  features:
+    - icon: fa fa-video-camera
+      title: Video
+      description: Contact your host family from BUTRFLY and save time !
+
+    - icon: fa fa-users
+      title: Community
+      description: Meet au pair nearby your family, share your au pair experience and make friends for life !
+
+    - icon: fa fa-map-marker
+      title: Geolocation
+      description: Geotag your family in one clic and look at all au pair around. You will never feel alone anymore !
+
+    - icon: fa fa-money
+      title: Compensation guarantee
+      description: With BUTRFLY get your pocket money on your bank account at fixed day.
+
+    - icon: fa fa-universal-access
+      title: Support
+      description: BUTRFLY supports you all along your stay in your host family.
+
+    - icon: fa fa-thumbs-o-up
+      title: Reviews
+      description: Improve your profile with reviews from your family and your friends.

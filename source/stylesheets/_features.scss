@@ -5,12 +5,13 @@
   }
   .icon-box {
     width: 100%;
+    min-height: 180px;
     padding: 20px;
     margin-bottom: 20px;
     background: #fff;
     text-align: center;
     .icon {
-      font-size: 1.5rem;
+      font-size: 2rem;
       color: #3dadb2;
     }
   }
